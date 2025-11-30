@@ -13,5 +13,15 @@ Me chamo Marcos Antonio da Silva Paco, tenho 30 anos e sou natural de Manaus, Am
 
 <br/><br/>
 
-📊 Estatísticas
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MarcosSPaco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> </p>
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MarcosSPaco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+</p>
